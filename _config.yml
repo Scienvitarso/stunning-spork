@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: Holo Alfa
+name: Dark Spot of the Code
 
 description:
 
@@ -8,20 +8,20 @@ description:
   meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: Quero Ver onde isso aparece.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Fábio da Silva Santana # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: fabio.ssantana.dev@gmail.com # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
   info:
 
-url: http://steinvc.github.io
-baseurl: "/holo-alfa"
+url: http://scienvitarso.github.io
+baseurl: "/stunning-spork"
 
 # language attribute in <html> element.
 lang: en
@@ -37,8 +37,7 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 
-footer-text: This is the footer.<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
-
+footer-text: 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
 
