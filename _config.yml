@@ -24,7 +24,10 @@ author:
 url: http://scienvitarso.github.io
 =======
 url: http://steinvc.github.io
+<<<<<<< HEAD
 >>>>>>> 9d28dbfd45ad3ec75a4a447a4590f3aa4e4f4aac
+=======
+>>>>>>> refs/remotes/origin/gh-pages
 baseurl: "/stunning-spork"
 
 # language attribute in <html> element.
