@@ -8,7 +8,7 @@ description:
   meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Quero Ver onde isso aparece.
+  subtitle: Um blogue sobre android, Java e talvez outras coisas!
 
 author:
   name: Fábio da Silva Santana # Change this!
@@ -20,14 +20,7 @@ author:
   # want it.
   info:
 
-<<<<<<< HEAD
 url: http://scienvitarso.github.io
-=======
-url: http://steinvc.github.io
-<<<<<<< HEAD
->>>>>>> 9d28dbfd45ad3ec75a4a447a4590f3aa4e4f4aac
-=======
->>>>>>> refs/remotes/origin/gh-pages
 baseurl: "/stunning-spork"
 
 # language attribute in <html> element.
@@ -46,7 +39,7 @@ display-social-icons: false
 
 footer-text: 
 # Preferably 64px in height. Leave empty = disable.
-logo-image: # /img/logo.png
+logo-image: /img/Logo.png
 
 # Toolbar color for Chrome on Android.
 theme-color-attr: "#00f0ff"
@@ -97,13 +90,13 @@ twitter:
 youtube:
 instagram:
 tumblr:
-facebook:
-google-plus:
+facebook: https://plus.google.com/u/0/+fabiodasilvasantana/posts/p/pub
+google-plus: https://plus.google.com/u/0/+fabiodasilvasantana/posts/p/pub
 reddit:
 soundcloud:
 medium:
 linkedin:
-github:
+github: https://github.com/Scienvitarso
 behance:
 codepen:
 dribbble:
