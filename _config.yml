@@ -39,7 +39,7 @@ display-social-icons: false
 
 footer-text: 
 # Preferably 64px in height. Leave empty = disable.
-logo-image: /img/Logo.png
+logo-image: /img/logo.png
 
 # Toolbar color for Chrome on Android.
 theme-color-attr: "#00f0ff"
